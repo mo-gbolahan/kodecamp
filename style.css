@@ -1,0 +1,148 @@
+body {
+    background-color: black;
+    
+    color:antiquewhite;
+  }
+.biography {
+    color:antiquewhite;
+    font-size: 100px;
+    font-weight: lighter;
+
+}
+.profpic {
+    border-radius: 50%
+}
+.profname {
+    font-size: 40px;
+    text-align: center;
+}
+p.talk {
+    padding: 0px 23%;
+    line-height: 1.6;
+
+    
+    text-align: left;
+   
+
+    font-size: 15px;
+    font-family: Times;
+
+}
+.logo {
+    padding:20px;
+    max-width:30px;
+    height:auto;
+}
+.middlel{
+    font-weight: bold;
+
+    text-align: left; 
+    word-spacing: 1px;
+    padding: 0px 150px 20px 180px;
+    float:left;
+    width:30%;
+  }
+
+.middler{
+    
+    text-align: left;
+    
+    padding: 13px 20px 0px 0px;
+    
+    float:right;
+    width:35%;
+  }
+  a {
+      color:antiquewhite
+  }
+ .middle{
+      display: flex;
+  }
+  .as {
+    font-weight: bold;
+    font-size: 70px;
+  }
+  h1.lowertalk{
+    font-weight: bold;
+    font-size: 48px;
+    font-family: serif;
+
+    text-align: center; 
+    word-spacing: 3px;
+    
+    
+    width:60%;
+  }
+  h3.lowertalk{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: sans-serif;
+
+
+    text-align: center; 
+    word-spacing: 3px;
+    
+    
+    width:60%;
+  }
+  img {
+
+    padding: 40px;
+    border-radius: 30%
+
+  }
+  img:hover {
+      display: subgrid;
+  }
+  button {
+      border-color: antiquewhite;
+      background-color: black;
+      color:antiquewhite;
+      padding: 25px 60px;
+      font-size: 20px;
+      font-family: Ubuntu;
+  }
+  button:hover {
+      background-color: antiquewhite;
+      color:black;
+  }
+
+  .buttoml {
+    font-weight: bold;
+
+    text-align: left; 
+    word-spacing: 1px;
+    line-height:25px;
+    padding: 0px 10px 20px 180px;
+    float:left;
+    width:40%;
+  }
+ .buttomr {
+    text-align: left;
+    line-height:25px;
+    word-spacing: 1px;
+    padding: 13px 100px 0px 0px;
+    
+    float:right;
+    width:35%;
+  }
+  address{
+      font-size: 23px;
+  }
+
+  div.note {
+    font-size: 23px;
+      width:40%;
+      word-wrap: break-word;
+      border-left: 40px;
+
+  }
+  footer {
+      vertical-align: text-top;
+      
+      background-color: gray;
+      border:100px solid gray;
+      border-top:1px;
+
+      font-size: 20px;
+  }
